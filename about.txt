@@ -1,1 +1,5 @@
 Make text file to practice git commits
+
+seven rules to follow in order to write good commits
+
+1. Use blank line to separate subject line from the body
