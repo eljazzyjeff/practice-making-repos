@@ -3,3 +3,4 @@ Make text file to practice git commits
 seven rules to follow in order to write good commits
 
 1. Use blank line to separate subject line from the body
+2. Keep subject line around 50 characters and 72 is the hard limit
